@@ -1,6 +1,6 @@
 {
     "name": "demontweeks-simon/my-oranges-package",
-    "description": "All sorts of things about oranges",
+    "description": "All sorts of things about oranges and other associated citrus fruits",
     "require": {
         "demontweeks-simon/my-satsumas-package": "dev-master@dev"
     }
