@@ -1,4 +1,4 @@
 <?php
-echo "I really like oranges (orange dependency)<br />";
-echo "and they are good for you (orange dependency)<br />";
+$oranges =  "I really like oranges (orange dependency)<br />";
+$oranges .= "and they are good for you (orange dependency)<br />";
 ?>
